@@ -22,6 +22,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Christian saints -- Juvenile literature'
 - !lcc 'BX'
+- GITenberg
 tableOfContents: Saint Ursula -- Saint Benedict -- Saint Christopher -- Saint Catherine
   of Siena -- Saint Augustine of Hippo -- Saint Augustine of Canterbury -- Saint Cecilia
   -- Saint Giles -- Saint Nicholas -- Saint Faith -- Saint Cosmo and Saint Damian
